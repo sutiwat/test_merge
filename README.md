@@ -12,3 +12,14 @@ return new array sort ascending
 ##Install dependencies
 
 npm install
+
+##Run the tests
+
+npm test
+
+##Build the project
+npm run build
+
+##Run Project
+
+npm start
