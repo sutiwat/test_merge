@@ -1,5 +1,5 @@
 
-##Function Description
+## Function Description
 
 ```ts
 merge(collection_1: number[], collection_2: number[], collection_3: number[]): number[]
@@ -9,17 +9,19 @@ collection_2, collection_3 already sorted from min(0) to max
 
 return new array sort ascending
 
-##Install dependencies
+```
+
+## Install dependencies
 
 npm install
 
-##Run the tests
+## Run the tests
 
 npm test
 
-##Build the project
+## Build the project
 npm run build
 
-##Run Project
+## Run Project
 
 npm start
